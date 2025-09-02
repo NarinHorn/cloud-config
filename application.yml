@@ -1,5 +1,5 @@
 spring:
   application:
-    name: cloud-config-normal
+    name: cloud-config
 server:
   port: 8090
