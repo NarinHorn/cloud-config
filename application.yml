@@ -2,4 +2,4 @@ spring:
   application:
     name: cloud-config
 server:
-  port: '{cipher}f4db5234cd5193d8fe9a6c2d95d1204b0b2d15b38afc1920a13ef227fc84c2ad'
+  port: '{cipher}AQBf68bFq175+YMwOloFDk3YrC5gHaXskg4/BllSip/yU6QcR0CjX1tQeD7g6QEJOGlmDlVirwe0prEU8PopFJ1qtiZbiYVqTM0pw8dT1LTerWcaXSM9QytOzD4tzbqU+AemvhSGuvK9bBOCKsFMkATpxsbCEOzh+zRZPSbX9NeNRQ54HaLyCkSw2Jri6mJVMzJ36q+gXY6R5uD/eUqdoeR6H5V+F/5pS0LRh7AbLbn3k75zuhGBEHEwmUKFuHAn/IOWPpGpENPwoZitHSvKPPo8O/lyJsEHQP7rfjTosQrvjbSrS6D9iOreVTYsIjqmoJVZWy64SwCgHMDW2lyDxL8RKdAn9c6YkyL4PGRxPSJ7UV5ZWt9iuBPVJT0iFL61bs0='
