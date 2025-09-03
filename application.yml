@@ -2,4 +2,4 @@ spring:
   application:
     name: cloud-config
 server:
-  port: 8090
+  port: '{cipher}f4db5234cd5193d8fe9a6c2d95d1204b0b2d15b38afc1920a13ef227fc84c2ad'
